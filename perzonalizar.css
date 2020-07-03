@@ -1,0 +1,33 @@
+h1{
+	color:white;
+	padding-left: 400px;
+	background-color: black;
+	border-radius:50px;
+	border:50px green double;
+	box-shadow: 2px 4px 15px 0 white;
+	text-shadow:2px 4px 10px white;
+
+}
+*{
+	background-color: black;
+
+}
+p{
+	color: white;
+	padding-left: 30px;
+	padding-right: 30px;
+	border:green 20px double;
+	box-shadow: 2px 4px 15px 0 white;
+	text-shadow:2px 4px 10px white;
+
+
+}
+img{
+	width: 360px;
+	padding: 20px;
+	height: 300px;
+	border-radius: 40px;
+	border:green 20px double;
+	box-shadow: 2px 4px 15px 0 white
+
+}
